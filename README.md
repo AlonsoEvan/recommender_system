@@ -67,7 +67,7 @@ It is mainly useful for:
 ├── notebook.ipynb
 └── README.md
 
-##Possible Extensions
+## Project Structure
 
 This project could be improved by:
 
