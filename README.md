@@ -66,12 +66,3 @@ It is mainly useful for:
 ├── data.csv
 ├── notebook.ipynb
 └── README.md
-
-## Project Structure
-
-This project could be improved by:
-
-- combining clustering with cosine similarity,
-- using richer text embeddings,
-- adding product metadata such as titles, categories, or images,
-- building a small interactive interface.
